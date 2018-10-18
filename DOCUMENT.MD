@@ -124,34 +124,32 @@ logo.png ( podeu ficar la imatge que vulgueu)**
 
 **31. Crear un directori de images i moure allí el logotip logo.png.**
 
-
-
 **32. Crear un commit indicant que es mou el logotip a la carpeta images.**
-
-
 
 **33. Crear un directori de CSS i moure allí les CSS style.css.**
 
-
 **34. Crear un commit indicant que es mou la CSS a la carpeta CSS.**
 
-
+![](images/60.png)
 
 **35. Canviar les referències a la CSS en el index.htm i al logotip logo.png en la CSS.**
 
+![](images/32.png)
+![](images/33.png)
 
 
 **36. Crear un commit indicant que es canvien les referències a les CSS i a les imatges al reorganitzar-les
 en directoris.**
 
-
-
 **37. Actualitzar la pàgina remota de forma regular fent amb l'ordre push.**
 
+![](images/31.png)
 
 
 **38. Anar al vostre repositori en Github.com i comprovar que ho teniu idèntic al vostre repositori
 local.**
+
+![](images/34.png)
 
 
 
