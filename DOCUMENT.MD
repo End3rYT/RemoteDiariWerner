@@ -41,3 +41,69 @@
 **10. Crear un repositori en GitHub que s’anomeni RemoteDiariVostreNom (exemple RemoteDiariEduardo)**
 
 ![](images/11.png)
+
+**11. Assignar al vostre repostiorio global el remot**
+
+![](images/12.png)
+![](images/13.png)
+
+**12. Afegir el contingut de section, entre section i section**
+
+![](images/14.png)
+
+**13. Crear un commit indicant que s'afegeix tota l'estructura de la zona de posts.**
+
+![](images/15.png)
+
+**14. Crear un arxiu style.css.**
+
+![](images/16.png)
+
+**15. Afegir la següent informació**
+
+![](images/17.png)
+
+**16. Crear un commit indicant que s'afegeixen les CSS d'html i de body**
+
+
+![](images/18.png)
+
+**17. Afegir la següent informació**
+
+
+![](images/19.png)
+
+**18. Crear un commit indicant que s'afegeixen les CSS de diversos elements HTML5: header,
+section, article, aside i footer.**
+
+
+![](images/20.png)
+
+**19. Afegir en el directori arrel de projecte el logotip que apareixerà en la barra lateral esquerra:
+logo.png ( podeu ficar la imatge que vulgueu)**
+
+
+![](images/21.png)
+
+**20. Crear un commit indicant que s'afegeix el logotip del Vostre Diari.**
+**21. Afegir la següent informació.**
+
+
+![](images/22.png)
+
+**22. Crear un commit indicant que s'afegeixen les CSS de section.**
+
+![](images/24.png)
+
+**23. Afegir la següent informació.**
+
+![](images/25.png)
+
+**24. Crear un commit indicant que s'afegeixen les CSS del footer**
+
+![](images/26.png)
+
+**25. Afegir la següent informació**
+
+![](images/27.png)
+
