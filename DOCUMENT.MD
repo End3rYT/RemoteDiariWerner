@@ -196,4 +196,40 @@ local.**
 
 ![](images/51.png)
 
+**49. Portar els canvis de la branca “develop” a la branca “master”. Resoldre els conflictes, si hi
+hagués.**
+**50. Crear una etiqueta de v1.2**
+
+![](images/52.png)
+
+
+**51. Afegir fitxer DOCUMENT.MD amb tota la pràctica, captura de pantalla, explicacions
+etc…També en Markdown. ( en github). Podeu triar entre elaborar-lo en local i pujarho
+a github ( ex: drag and drop) o treballar directament en l'editor de Github.**
+
+![](images/54.png)
+
+**52. Activar la utilització de gh-pages i l'adreça de la pàgina web que es mostrés: recordar que
+serà del tipus https://username.github.io/Diariremotoeduardo.**
+
+![](images/53.png)
+
+**53. Afegir un document Readme.md escrit en Markdown, amb el vostre nom, curs i nom- practica
+“Practica Diari Vostre Nom” i enllaç a la vostra pàgina generada anteriorment.**
+
+![](images/54.png)
+
+**54. Lliurar l'adreça web del vostre master ( repositori). Heu de tenir tots els elements i la pagina
+s'ha de visualitzar de forma correcta, en particular la carpeta CSS amb el css creat i la carpeta
+imatges.**
+
+## AL REPOSITORI LOCAL ##
+
+**55. Actualitzar-ho amb els commits i canvis fets en el repositori remot ( fent possiblement git
+fetch i git pull**
+
+![](images/55.png)
+![](images/56.png)
+![](images/57.png)
+
 
