@@ -228,12 +228,14 @@ imatges.**
 **55. Actualitzar-ho amb els commits i canvis fets en el repositori remot ( fent possiblement git
 fetch i git pull**
 
+**56. Actualitzar DOCUMENT.MD amb els últims canvis, fer commit corresponent i actualitzar
+repositori remot**
+
 ![](images/55.png)
 ![](images/56.png)
 ![](images/57.png)
 
-**56. Actualitzar DOCUMENT.MD amb els últims canvis, fer commit corresponent i actualitzar
-repositori remot**
+
 
 ## EN AQUEST PUNT HAURIES DE TENIR EL MATEIX EN LOCAL QUE EN REMOT ##
 
@@ -246,19 +248,23 @@ fork ( això crearà una còpia del repositori en el vostre compte: tipus github
 hi aneu al fitxer Billiards/src/Billiards.cpp i feu alguna modificació ( ex: canviar el text que fica a
 cout). Feu un pull request a l’original. Us aprovaré el canvi o el denegaré.**
 
-
-
-
-
-
-
-
+![](images/65.png)
+![](images/66.png)
+![](images/67.png)
+![](images/68.png)
+![](images/69.png)
+![](images/70.png)
+![](images/71.png)
 
 **3 – Clonar un repositori
 Cloenu el projecte: https://github.com/ejgutierrez74/individual i ho descarregeu a una carpeta
 local. Vegeu els remotes que té. Feu una inspecció amb git log dels commits i historial del projecte.
 Feu alguna modificació al poema i un commit. NO el torneu a pujar ni res. Els canvis han de restar
 al vostre repositori local.**
+
+![](images/72.png)
+![](images/73.png)
+
 
 
 
