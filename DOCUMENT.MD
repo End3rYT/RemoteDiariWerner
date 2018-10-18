@@ -151,5 +151,49 @@ local.**
 
 ![](images/34.png)
 
+##A GITHUB.COM:##
+
+**39. Crear una branca “bugfix” a partir de la “master” per resoldre una sèrie de modificacions.**
+
+![](images/38.png)
+
+**40. Treure els comentaris en les CSS de les dues vores (comencen per //border ).**
+
+![](images/39.png)
+
+**41. Crear un commit indicant que introdueixen les vores en la barra dreta i en el footer.**
+
+![](images/40.png)
+
+**42. Introduir com a títol “Diari de Vostre Nom”.**
+
+![](images/41.png)
+
+**43. Crear un commit indicant que s'introdueix el títol a la pàgina.**
+
+![](images/42.png)
+
+**44. Canviar 2012 per 2018 en el footer. Treure (c).**
+
+![](images/43.png)
+
+**45. Crear un commit indicant que es realitzen petits ajustos en el footer.**
+
+![](images/44.png)
+
+**46. Crear una etiqueta de v1.1**
+
+![](images/45.png)
+
+**47. Portar aquests canvis a la branca “master” ( realitzar un merge).**
+
+![](images/47.png)
+![](images/48.png)
+![](images/49.png)
+![](images/50.png)
+
+**48. Esborrar la branca “bugfix”.**
+
+![](images/51.png)
 
 
