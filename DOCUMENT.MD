@@ -151,7 +151,7 @@ local.**
 
 ![](images/34.png)
 
-##A GITHUB.COM:##
+## A GITHUB.COM ##
 
 **39. Crear una branca “bugfix” a partir de la “master” per resoldre una sèrie de modificacions.**
 
