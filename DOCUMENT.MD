@@ -107,3 +107,51 @@ logo.png ( podeu ficar la imatge que vulgueu)**
 
 ![](images/27.png)
 
+**26. Crear un commit indicant que s'afegeixen les CSS de l'H1 i dels enllaços**
+**27. Actualitzar la pàgina remota de forma regular fent amb l'ordre push.**
+
+![](images/28.png)
+
+**28. Crear una etiqueta de v1.0**
+
+![](images/29.png)
+
+**29. Crear una branca “develop”.**
+
+**30. En aquesta branca de desenvolupament anem a realitzar diverses tasques:**
+
+![](images/30.png)
+
+**31. Crear un directori de images i moure allí el logotip logo.png.**
+
+
+
+**32. Crear un commit indicant que es mou el logotip a la carpeta images.**
+
+
+
+**33. Crear un directori de CSS i moure allí les CSS style.css.**
+
+
+**34. Crear un commit indicant que es mou la CSS a la carpeta CSS.**
+
+
+
+**35. Canviar les referències a la CSS en el index.htm i al logotip logo.png en la CSS.**
+
+
+
+**36. Crear un commit indicant que es canvien les referències a les CSS i a les imatges al reorganitzar-les
+en directoris.**
+
+
+
+**37. Actualitzar la pàgina remota de forma regular fent amb l'ordre push.**
+
+
+
+**38. Anar al vostre repositori en Github.com i comprovar que ho teniu idèntic al vostre repositori
+local.**
+
+
+
